@@ -1,0 +1,9 @@
+g,d,3,o
+g,b,2,o
+g,s,1,r
+r,d,3,w
+p,b,2,w
+p,d,1,w
+g,b,2,r
+g,s,3,w
+r,s,1,w
